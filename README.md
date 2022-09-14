@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mcisatrueabc
-- 👀 I’m interested in hiking, photography
-- 🌱 I’m currently studying Information Systems at HKUST, with an intention to further pursue Master of Business Analytcis in the US 
-- 💞️ I’m looking to collaborate on text mining projects 
+- 👋 Hi, I’m Cheuk Fung Yu, Marcus 
+- 👀 I’m interested in hiking and photography
+- 🌱 I’m currently studying Information Systems at HKUST, with an intention to pursue Master of Business Analytcis in the US 
+- 💞️ I’m looking to collaborate on text mining and machine larning projects 
 - 📫 Please reach me at yucheukfung@hotmail.com 
 
 <!---
